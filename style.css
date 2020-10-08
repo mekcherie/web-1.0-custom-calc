@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: burlywood;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: burlywood;
+    
+}
+
+.input{
+    margin: 0px 16px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 50px;
+    
+}
+
+#display, #total{
+    font-size: 19px;
+    font-weight: bold;
+
+}
